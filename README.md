@@ -3,4 +3,4 @@ Welcome to Nyanpasu Music, This is a platform where you can discover,enjoy and r
 
 ##Website
 
-Visit the [Myanpasu Music website](http://http://nyanpasumusic.epizy.com) to explore our collection of translated music videos, enjoy music details and download your favorite video
+Visit the [Myanpasu Music website](http://nyanpasumusic.epizy.com) to explore our collection of translated music videos, enjoy music details and download your favorite video
